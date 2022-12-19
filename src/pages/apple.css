@@ -1,0 +1,22 @@
+.type {
+    margin-right: 470px;
+    margin-left: 470px;
+}
+.group{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+label{
+    font-size: 20px;
+}
+
+fieldset {
+    background-color: #eeeeee;
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }

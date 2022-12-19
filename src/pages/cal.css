@@ -1,0 +1,49 @@
+.cal{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: none;
+    padding: 10px;
+    gap: 5px;
+}
+.Barbarian{
+
+}
+.Bard{
+
+}
+.Cleric{
+
+}
+.Druid{
+
+}
+.Fighter{
+
+}
+.Monk{
+
+}
+.Paladin{
+    
+}
+.Ranger{
+
+}
+.Rogue{
+
+}
+.Sorcerer{
+
+}
+.Warlock{
+
+}
+.Wizard{
+
+}
+.Artificer{
+
+}
+.Blood{
+
+}
